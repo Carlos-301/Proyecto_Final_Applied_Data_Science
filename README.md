@@ -27,3 +27,9 @@ buscando validar su calidad y suficiencia para la solución planteada.
 - Entendimiento de los datos
 - Conclusiones iniciales
 <br>
+
+
+Para el caso de la presentación ejecutiva, el video se encuentra en el siguiente enlace [Video presentación ejecutiva](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/main/Reports/Presentacion_Ejecutiva_Entrega1.mp4) y su respectiva [presentación](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/main/Reports/Presentacion.pdf).
+
+El documento con el resumen ejecutivo de esta primera entrega se encuentra en [Documento ejecutivo](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/main/Reports/Documento%20Ejecutivo%20Ciencia%20de%20Datos%20Aplicada.pdf)
+y el documento detallado
