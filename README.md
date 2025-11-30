@@ -6,32 +6,34 @@
 - Mateo Parra Ochoa
 
 
-Los objetivos de esta primera entrega son los siguientes:
+Los objetivos de la entrega final son los siguientes:
 
+- Realizar la preparación y limpieza de datos requerida para la construcción del
+modelo de machine learning y/o dashboard planteado.
+- Desarrollar las etapas de modelado y evaluación de modelos.
+- Construir el producto de datos funcional con los diferentes componentes
+establecidos durante la actividad de ideación.
+- Presentar los resultados del análisis y el producto de datos a los stakeholders de la
+organización y obtener retroalimentación respecto a los logros alcanzados y
+próximos pasos
 
-- Proponer una solución a una problemática de una organización la cuál pueda ser
-abordada mediante la ciencia de datos y la elaboración de un producto de datos.
-- Realizar un entendimiento del negocio y de la problemática a solucionar.
-- Definir una primera propuesta de enfoque analítico a seguir, así como los
-elementos básicos del producto de datos a construir.
-- Recolectar los datos necesarios y hacer un análisis exploratorio de los mismos
-buscando validar su calidad y suficiencia para la solución planteada.
 
 ## Actividades realizadas:
 
-- Definición de la problemática y entendimiento del negocio
-- Ideación
+- Preparación de datos
+- Estrategia de validación y selección de modelo
 - Responsible
-- Enfoque analítico
-- Recolección de datos
-- Entendimiento de los datos
+- Construcción y evaluación del modelo
+- Construcción del producto de datos
 - Conclusiones iniciales
 <br>
 
+Los modelos que fueron entrenados, tanto los de prueba como los finales que se usaron para el despliegue se encuentran en la carpeta [models](Notebooks/models)
+En caso de querer ejecutar los notebooks en donde se entrenan los modelos, el notebook para el modelo que usa los datos de laboratorios se encuentra en [modelo texto](Notebooks/Clinical_Model.ipynb) y el modelo de analisis de imagenes se encuentra en [modelo imagenes](Notebooks/Image_model.ipynb) , sin embargo este modelo fue entrenado en google Colab por lo que el notebook es solo ilustrativo.
 
 Para el caso de la presentación ejecutiva, el video se encuentra en el siguiente enlace [Video presentación ejecutiva](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/main/Reports/Presentacion_Ejecutiva_Entrega1.mp4) y su respectiva [presentación](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/main/Reports/Presentacion.pdf).
 
 El documento con el resumen ejecutivo de esta primera entrega se encuentra en [Documento ejecutivo](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/main/Reports/Documento%20Ejecutivo%20Ciencia%20de%20Datos%20Aplicada.pdf)
 y el [documento detallado](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/main/Reports/Documento%20detallado.pdf).
 
-Para el análisis exploratorio de los datos se utilizaron2 Notebooks, en donde el orden de ejecución no importa, pues en cada uno se realizó el análisis de fuentes de datos diferentes. Sin embargo es importante destacar que son complementarios.
+
