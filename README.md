@@ -31,9 +31,8 @@ próximos pasos
 Los modelos que fueron entrenados, tanto los de prueba como los finales que se usaron para el despliegue se encuentran en la carpeta [models](Notebooks/models)
 En caso de querer ejecutar los notebooks en donde se entrenan los modelos, el notebook para el modelo que usa los datos de laboratorios se encuentra en [modelo texto](Notebooks/Clinical_Model.ipynb) y el modelo de analisis de imagenes se encuentra en [modelo imagenes](Notebooks/Image_model.ipynb) , sin embargo este modelo fue entrenado en google Colab por lo que el notebook es solo ilustrativo.
 
-Para el caso de la presentación ejecutiva, el video se encuentra en el siguiente enlace [Video presentación ejecutiva](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/main/Reports/Presentacion_Ejecutiva_Entrega1.mp4) y su respectiva [presentación](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/main/Reports/Presentacion.pdf).
+Para el caso de la presentación ejecutiva, el video se encuentra en el siguiente enlace [Video presentación ejecutiva](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/698329a014ade33b5079e79f31dd2eab93ee12db/Reports%20FInal/CIENCIA%20DE%20DATOS%20FINAL%20-%20Made%20with%20Clipchamp.mp4) y su respectiva [presentación](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/698329a014ade33b5079e79f31dd2eab93ee12db/Reports%20FInal/Copia%20de%20Proyecto%20multidisciplinar.pdf).
 
-El documento con el resumen ejecutivo de esta primera entrega se encuentra en [Documento ejecutivo](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/main/Reports/Documento%20Ejecutivo%20Ciencia%20de%20Datos%20Aplicada.pdf)
-y el [documento detallado](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/main/Reports/Documento%20detallado.pdf).
+El documento con el resumen ejecutivo de esta primera entrega se encuentra en [Documento ejecutivo](https://github.com/Carlos-301/Proyecto_Final_Applied_Data_Science/blob/698329a014ade33b5079e79f31dd2eab93ee12db/Reports%20FInal/Documento%20Ejecutivo%20Final%20(1).pdf)
 
 
